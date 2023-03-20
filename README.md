@@ -1,6 +1,6 @@
 <div align="center">
 
-# Diego Barbosa
+  # Diego Barbosa
 
   [![email: diegobarbosapro@gmail.com](https://img.shields.io/static/v1?label=Email&message=%20&color=8B89CC&labelColor=8B89CC&logoColor=FFF&style=for-the-badge&logo=protonmail)](mailto:diegobarbosapro@gmail.com)
   [![linkedin: diegobarbosa](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0077B5&labelColor=0077B5&logoColor=FFF&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diegobarbosad/)
@@ -13,19 +13,9 @@
   
 </div>
 
-# Technologies and Tools
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-##
-
 <div align="center">
+  
+  ##
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Barbosa-Diego&theme=buefy-dark&border_radius=4)](https://git.io/streak-stats)
 
