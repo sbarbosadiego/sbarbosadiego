@@ -8,7 +8,8 @@
 </div>
 <div align="center">
   
-  ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=barbosa-diego&theme=midnight-purple&show_icons=true)
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=barbosa-diego&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosa-diego&layout=compact&langs_count=16&theme=midnight-purple&exclude_repo=IALog"/>
   
 </div>
 
