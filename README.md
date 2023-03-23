@@ -7,10 +7,9 @@
   
 </div>
 <div align="center">
-  
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sbarbosadiego&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarbosadiego&layout=compact&langs_count=16&theme=midnight-purple&exclude_repo=IALog"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sbarbosadiego&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarbosadiego&layout=compact&langs_count=16&theme=midnight-purple&exclude_repo=IALog"/>
   
 </div>
 
