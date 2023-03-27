@@ -1,6 +1,6 @@
 <div align="center">
 
-## Diego Barbosa
+## 👋 Olá, eu sou Diego Barbosa
   
   [![email: diegobarbosapro@gmail.com](https://img.shields.io/static/v1?label=Email&message=%20&color=8B89CC&labelColor=8B89CC&logoColor=FFF&style=for-the-badge&logo=protonmail)](mailto:diegobarbosapro@gmail.com)
   [![linkedin: diegobarbosa](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0077B5&labelColor=0077B5&logoColor=FFF&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diegobarbosad/)
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  ## Tecnologias e Ferramentas
+  ### Tecnologias e Ferramentas
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
