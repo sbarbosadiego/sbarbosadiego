@@ -26,6 +26,6 @@
   
 ##
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sbarbosadiego&theme=buefy-dark&border_radius=4)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sbarbosadiego&theme=buefy-dark&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
