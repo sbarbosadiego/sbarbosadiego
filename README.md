@@ -4,7 +4,7 @@
        
   💻 Análise e Desenvolvimento de Sistemas - Unicesumar<br>
   📝 Técnico em Administração - Etec Trajano Camargo<br>
-  💡 Atualmente focado no estudo de Java e Banco de Dado
+  💡 Atualmente focado no estudo de Java e Banco de Dados
 
   
   </div>
