@@ -18,7 +18,7 @@
   <img height="170em" src="https://github-readme-stats-kpvaqn4mk-sbarbosadiego.vercel.app/api/top-langs/?username=sbarbosadiego&layout=compact&langs_count=16&theme=midnight-purple&exclude_repo=IALog"/>
 
   ### 👨‍💻 Tecnologias e Ferramentas
-  [![My Skills](https://skillicons.dev/icons?i=linux,html,css,c,java,postgres,mysql&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,git,html,css,c,java,postgres,mysql&theme=light)](https://skillicons.dev)
   
 </div>
 
