@@ -14,8 +14,8 @@
 <div align="left">
 
   ### 📚 Github Stats:
-  <img height="170em" src="https://github-readme-stats-kpvaqn4mk-sbarbosadiego.vercel.app/api?username=sbarbosadiego&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
-  <img height="170em" src="https://github-readme-stats-kpvaqn4mk-sbarbosadiego.vercel.app/api/top-langs/?username=sbarbosadiego&layout=compact&langs_count=16&theme=midnight-purple&exclude_repo=IALog"/>
+  <img height="170em" src="https://github-readme-stats-kpvaqn4mk-sbarbosadiego.vercel.app/api?username=sbarbosadiego&show_icons=true&theme=github_dark&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats-kpvaqn4mk-sbarbosadiego.vercel.app/api/top-langs/?username=sbarbosadiego&layout=compact&langs_count=16&theme=github_dark&exclude_repo=IALog"/>
 
   ### 👨‍💻 Tecnologias e Ferramentas
   <table><tr><td valign="top" width="33%">
@@ -50,10 +50,10 @@
 
 </div>
 
-<div align="center">
+<div align="left">
   
 ##
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sbarbosadiego&theme=buefy-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sbarbosadiego&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
