@@ -14,8 +14,8 @@
 <div align="left">
 
   ### 📚 Github Stats:
-  <img height="170em" src="https://github-readme-stats-kpvaqn4mk-sbarbosadiego.vercel.app/api?username=sbarbosadiego&show_icons=true&theme=github_dark&include_all_commits=true"/>
-  <img height="170em" src="https://github-readme-stats-kpvaqn4mk-sbarbosadiego.vercel.app/api/top-langs/?username=sbarbosadiego&layout=compact&langs_count=16&theme=github_dark&exclude_repo=IALog"/>
+  <img height="200em" src="https://github-readme-stats-kpvaqn4mk-sbarbosadiego.vercel.app/api?username=sbarbosadiego&show_icons=true&theme=github_dark&include_all_commits=true"/>
+  <img height="200em" src="https://github-readme-stats-kpvaqn4mk-sbarbosadiego.vercel.app/api/top-langs/?username=sbarbosadiego&layout=compact&langs_count=16&theme=github_dark&exclude_repo=IALog"/>
 
   ### 👨‍💻 Tecnologias e Ferramentas
   <table><tr><td valign="top" width="33%">
