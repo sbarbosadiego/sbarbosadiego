@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou Diego Barbosa
 <div align="center">
 
-## 
 
 [![email: diegobarbosapro@gmail.com](https://img.shields.io/static/v1?label=Email&message=%20&color=8B89CC&labelColor=8B89CC&logoColor=FFF&style=for-the-badge&logo=protonmail)](mailto:diegobarbosapro@gmail.com)
 [![linkedin: diegobarbosa](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0077B5&labelColor=0077B5&logoColor=FFF&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diegobarbosad/)
@@ -68,6 +67,6 @@
 
   ##
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sbarbosadiego&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sbarbosadiego&theme=github-dark-blue&date&locale=pt_BR_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
