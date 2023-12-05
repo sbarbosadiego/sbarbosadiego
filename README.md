@@ -39,7 +39,7 @@
   ### Frontend  
   <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css&perline=3&theme=light)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3&theme=light)](https://skillicons.dev)  
   </div>
 
   </td><td valign="top" width="25%">
