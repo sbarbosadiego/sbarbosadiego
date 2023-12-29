@@ -17,7 +17,7 @@
   <br>
   📝 Técnico em Administração - Etec Trajano Camargo
   <br>
-  💡 Atualmente focado no estudo de Java e Banco de Dados
+  💡 Atualmente focado no estudo de .NET Framework
 </p>
 
 </div>
