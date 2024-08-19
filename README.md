@@ -15,7 +15,6 @@
   <br>
   📝 Técnico em Administração - Etec Trajano Camargo
   <br>
-  💡 Programando por diversão e aprendizado pessoal
 </p>
 
 </div>
