@@ -11,8 +11,6 @@
 <div>
 
 <p>
-  ☁️ Pós-graduação em Projetos de Cloud Computing - Descomplica
-  <br>
   💻 Análise e Desenvolvimento de Sistemas - Unicesumar
   <br>
   📝 Técnico em Administração - Etec Trajano Camargo
